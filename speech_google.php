@@ -1,3 +1,4 @@
+<?php 
 /**
  * Process and audio file and split it in chuncks and send it to google speech
  * websrvice.
